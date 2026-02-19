@@ -1,5 +1,3 @@
----
-
 # 💰 Money 1% – Gérer son argent comme les riches
 
 ## 🚀 Description
